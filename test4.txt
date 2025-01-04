@@ -1,2 +1,2 @@
-
+adding new line
 This is test4 file content.
